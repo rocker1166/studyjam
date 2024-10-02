@@ -7,9 +7,11 @@
 .yarn/install-state.gz
 
 # testing
-/.env
+.env
 /coverage
+next-env.d.ts
 
+.env*.local
 # next.js
 /.next/
 /out/
